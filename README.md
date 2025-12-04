@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-# My TryHackMe Profile
-
-Check out my TryHackMe progress:
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/295152.png)](https://tryhackme.com/p/CLAY.)
+TryHackMe progress:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CL4Y..png" alt="Your Image Badge" />
+
+
+🛠️ As a CIS Support Engineer, I assist in developing, deploying, and managing scalable and secure cloud infrastructure solutions using Microsoft Azure, AWS, and Google Cloud. I work with virtual networks, storage, compute resources, and automate infrastructure with Terraform. I contribute to implementing best practices for cloud security, cost optimization, and system availability.
+
+🎯 Having participated in several CTF challenges, bug hunting programs, and internships, I continuously enhance my skills in security and cloud technologies. My goal is to protect sensitive information, ensure data integrity, and deliver exceptional web experiences.
 
 <!--
 **mynk-nyon/mynk-nyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
