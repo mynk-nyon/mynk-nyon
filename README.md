@@ -4,7 +4,8 @@
 
 Check out my TryHackMe progress:
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/295152.png)](https://tryhackme.com/p/YOUR_USERNAME)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/295152.png)](https://tryhackme.com/p/CLAY.)
+<img src="https://tryhackme-badges.s3.amazonaws.com/CL4Y..png" alt="Your Image Badge" />
 
 <!--
 **mynk-nyon/mynk-nyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
