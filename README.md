@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-TryHackMe progress:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CL4Y..png" alt="Your Image Badge" />
 
 
