@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/295152.png)
+# My TryHackMe Profile
+
+Check out my TryHackMe progress:
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/295152.png)](https://tryhackme.com/p/YOUR_USERNAME)
+
 <!--
 **mynk-nyon/mynk-nyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
