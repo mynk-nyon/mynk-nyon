@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=295152" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/CL4Y..png" alt="Your Image Badge" />
 
 
 🛠️ As a CIS Support Engineer, I assist in developing, deploying, and managing scalable and secure cloud infrastructure solutions using Microsoft Azure, AWS, and Google Cloud. I work with virtual networks, storage, compute resources, and automate infrastructure with Terraform. I contribute to implementing best practices for cloud security, cost optimization, and system availability.
