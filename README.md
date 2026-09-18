@@ -3,7 +3,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/CL4Y..png" alt="Your Image Badge" />
 
 # 💫 About Me:
-As a *Cloud infrastructure Engineer*, I assist in developing, deploying, and managing scalable and secure cloud infrastructure solutions using Microsoft Azure, AWS, and Google Cloud. I work with virtual networks, storage, compute resources, and automate infrastructure with Terraform. I contribute to implementing best practices for cloud security, cost optimization, and system availability. Having participated in several CTF challenges, bug hunting programs, and internships, I continuously enhance my skills in security and cloud technologies. My goal is to protect sensitive information, ensure data integrity, and deliver exceptional web experiences.
+**Cloud Infrastructure & Security Engineer** *(AZ-104 Certified)* specializing in architecting, deploying, and securing resilient multi-cloud environments across Microsoft Azure, AWS, and GCP. Hands-on experience designing secure compute, storage, and virtual networking topologies, with end-to-end Infrastructure as Code (IaC) automation via Terraform. Alongside engineering scalable systems, I actively operate as an independent *Security Researcher*, leveraging a practical attacker mindset developed through CTFs and vulnerability discovery to harden cloud perimeters, enforce compliance, and protect data integrity.
 
 
 ## 🌐 Socials:
